@@ -6,4 +6,4 @@ Usage:
 
 Notes:
   Code is not clean. It started as just an entropy generator using the mouse and keyboard intervals.
-  I couldn't care less to also use the keyboard interval so I left them there.
+  I couldn't care less to also use the keyboard interval so I left them there. Generated password might also contain chars that are not supported, but again I could not care less to filter them.
