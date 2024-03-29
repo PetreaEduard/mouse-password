@@ -72,4 +72,4 @@ word = ""
 for i in random_numbers:
     word = word + chr(i)
 
-print('Your new password is' + word)
+print('Your new password is ' + word)
